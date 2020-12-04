@@ -53,10 +53,9 @@ function setup() {
 
 	Engine.run(engine);
 
-bottom
   
 }
-
+//hello Advay how are you
 
 function draw() {
   rectMode(CENTER);
